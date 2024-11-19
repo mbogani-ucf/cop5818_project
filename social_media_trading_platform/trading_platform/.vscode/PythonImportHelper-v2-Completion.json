@@ -1,0 +1,891 @@
+[
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "NOT_FOUND",
+        "importPath": "http.client",
+        "description": "http.client",
+        "isExtraImport": true,
+        "detail": "http.client",
+        "documentation": {}
+    },
+    {
+        "label": "action",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "JWTAuthentication",
+        "importPath": "rest_framework_simplejwt.authentication",
+        "description": "rest_framework_simplejwt.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "accounts.apps",
+        "description": "accounts.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'accounts'",
+        "detail": "accounts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "accounts.serializers",
+        "description": "accounts.serializers",
+        "peekOfCode": "class UserSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = User\n        fields = ['username', 'password', 'email']\n    def create(self, validated_data):\n        user = User.objects.create_user(\n            username=validated_data['username'],\n            password=validated_data['password'],\n            email=validated_data['email']\n        )",
+        "detail": "accounts.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "accounts.urls",
+        "description": "accounts.urls",
+        "peekOfCode": "urlpatterns = [\n    path('register/', RegisterView.as_view(), name='register'),\n    path('login/', LoginView.as_view(), name='login'),\n    path('logout/', LogoutView.as_view(), name='logout'),\n    path('token/', TokenObtainPairView.as_view(), name='token_obtain_pair'),\n    path('token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),\n]",
+        "detail": "accounts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterView",
+        "kind": 6,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "class RegisterView(APIView):\n    def post(self, request):\n        serializer = UserSerializer(data=request.data)\n        if serializer.is_valid():\n            user = serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\nclass LoginView(APIView):\n    def post(self, request):\n        username = request.data.get(\"username\")",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "kind": 6,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "class LoginView(APIView):\n    def post(self, request):\n        username = request.data.get(\"username\")\n        password = request.data.get(\"password\")\n        user = authenticate(username=username, password=password)\n        if user:\n            refresh = RefreshToken.for_user(user)\n            # Customize the payload to include the user_id (author)\n            refresh.payload['user_id'] = user.id  # Add the user ID to the JWT token payload\n            return Response({",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "kind": 6,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "class LogoutView(APIView):\n    # permission_classes = [permissions.IsAuthenticated]\n    def post(self, request):\n        logout(request)  # This logs out the user and clears the session\n        return Response({\"detail\": \"Successfully logged out.\"}, status=status.HTTP_200_OK)",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0001_initial",
+        "description": "api.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='DiscussionThread',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "api.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ApiConfig",
+        "kind": 6,
+        "importPath": "api.apps",
+        "description": "api.apps",
+        "peekOfCode": "class ApiConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'api'",
+        "detail": "api.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class Post(models.Model):\n    author = models.ForeignKey(User, related_name=\"posts\", on_delete=models.CASCADE)\n    title = models.CharField(max_length=200)\n    content = models.TextField()\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now=True)\n    def __str__(self):\n        return self.title\n# Comment model\nclass Comment(models.Model):",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class Comment(models.Model):\n    post = models.ForeignKey(Post, related_name='comments', on_delete=models.CASCADE)\n    author = models.ForeignKey(User, related_name='comments', on_delete=models.CASCADE)\n    content = models.TextField()\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now=True)\n    def __str__(self):\n        return f\"Comment by {self.author.username} on {self.post.title}\"\n# Discussion Thread model (like Twitter feed)\nclass DiscussionThread(models.Model):",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiscussionThread",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class DiscussionThread(models.Model):\n    author = models.ForeignKey(User, related_name=\"threads\", on_delete=models.CASCADE)\n    title = models.CharField(max_length=200)\n    content = models.TextField()\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now=True)\n    def __str__(self):\n        return self.title\n# Vote model (for upvote/downvote on posts and comments)\nclass Vote(models.Model):",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vote",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class Vote(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    post = models.ForeignKey(Post, on_delete=models.CASCADE)\n    class Meta:\n        unique_together = ('user', 'post')  # This ensure that a user can vote only once per post",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "PostSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class PostSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Post\n        fields = ['id', 'author', 'title', 'content', 'created_at', 'updated_at']\n# Serializer for Comment\nclass CommentSerializer(serializers.ModelSerializer):\n    author_username = serializers.CharField(source='author.username', read_only=True)\n    class Meta:\n        model = Comment\n        fields = ['id', 'post', 'author_username', 'content', 'created_at', 'updated_at']",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CommentSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class CommentSerializer(serializers.ModelSerializer):\n    author_username = serializers.CharField(source='author.username', read_only=True)\n    class Meta:\n        model = Comment\n        fields = ['id', 'post', 'author_username', 'content', 'created_at', 'updated_at']\n        read_only_fields = ['author_username', 'created_at', 'updated_at']\n# Serializer for DiscussionThread\nclass DiscussionThreadSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = DiscussionThread",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "DiscussionThreadSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class DiscussionThreadSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = DiscussionThread\n        fields = ['id', 'author', 'title', 'content', 'created_at', 'updated_at']\n# Serializer for Vote\nclass VoteSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Vote\n        fields = ['id', 'user', 'post']",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "VoteSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class VoteSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Vote\n        fields = ['id', 'user', 'post']",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.urls",
+        "description": "api.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register(r'posts', PostViewSet, basename='post')\nrouter.register(r'comments', CommentViewSet, basename='comment')\nrouter.register(r'discussion-threads', DiscussionThreadViewSet, basename='discussion-thread')\nrouter.register(r'votes', VoteViewSet, basename='vote')\nurlpatterns = [\n    path('', include(router.urls)),\n    # Endpoint for Stock Prices\n    path('stock-prices/', StockPriceView.as_view(), name='stock-prices'),\n    # Nested routes for Votes under Discussion Threads",
+        "detail": "api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "api.urls",
+        "description": "api.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(router.urls)),\n    # Endpoint for Stock Prices\n    path('stock-prices/', StockPriceView.as_view(), name='stock-prices'),\n    # Nested routes for Votes under Discussion Threads\n    path('discussion-threads/<int:thread_pk>/votes/', VoteViewSet.as_view({'get': 'list', 'post': 'create'}), name='thread-votes'),\n    path('discussion-threads/<int:thread_pk>/votes/<int:pk>/', VoteViewSet.as_view({'get': 'retrieve', 'put': 'update', 'delete': 'destroy'}), name='vote-detail'),\n]",
+        "detail": "api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "IsOwnerOrReadOnly",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class IsOwnerOrReadOnly(permissions.BasePermission):\n    \"\"\"\n    Custom permission to allow only the owner of a post to edit or delete it.\n    \"\"\"\n    def has_object_permission(self, request, view, obj):\n        # Allow all users to view (GET, HEAD, OPTIONS) the post\n        if request.method in permissions.SAFE_METHODS:\n            return True\n        # Allow only the post author to edit or delete their own post\n        return obj.author == request.user",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "PostViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class PostViewSet(viewsets.ModelViewSet):\n    queryset = Post.objects.all()\n    serializer_class = PostSerializer\n    permission_classes = [permissions.IsAuthenticated, IsOwnerOrReadOnly]\n    def perform_create(self, serializer):\n        # Automatically assign the current user as the author\n        serializer.save(author=self.request.user)\n    def perform_update(self, serializer):\n        # Check if the user is the author before updating\n        instance = self.get_object()",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "CommentViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class CommentViewSet(viewsets.ModelViewSet):\n    queryset = Comment.objects.all()\n    serializer_class = CommentSerializer\n    permission_classes = [permissions.IsAuthenticated]\n    def perform_create(self, serializer):\n        # Create the comment with the user and the associated post\n        serializer.save(author=self.request.user)\n    def get_queryset(self):\n        # Filter comments by post_id from query parameters if available\n        post_id = self.request.query_params.get('post_id')",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "DiscussionThreadViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class DiscussionThreadViewSet(viewsets.ModelViewSet):\n    queryset = DiscussionThread.objects.all()\n    serializer_class = DiscussionThreadSerializer\n    permission_classes = [permissions.IsAuthenticated]\n    def perform_create(self, serializer):\n        serializer.save(author=self.request.user.userprofile)\n    def update(self, request, *args, **kwargs):\n        thread = self.get_object()\n        if thread.author != request.user.userprofile:\n            return Response({\"error\": \"You can only edit your own discussion thread.\"}, status=403)",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "VoteViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class VoteViewSet(viewsets.ModelViewSet):\n    queryset = Vote.objects.all()\n    serializer_class = VoteSerializer\n    permission_classes = [permissions.IsAuthenticated]\n    @action(detail=False, methods=['post'], url_path='upvote')\n    def upvote(self, request):\n        post_id = request.data.get('post_id')\n        user = request.user\n        try:\n            post = Post.objects.get(id=post_id)",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "StockPriceView",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class StockPriceView(View):\n    def get(self, request):\n        url = \"https://www.alphavantage.co/query\"\n        api_key = \"RP39HDJ4A4AFGJM2\"\n        symbols = ['AAPL', 'GOOG', 'MSFT', 'TSLA']  # Example stock symbols\n        stock_data = {}\n        rate_limit_exceeded = False\n        rate_limit_message = \"\"\n        for symbol in symbols:\n            params = {",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "trading_platform.asgi",
+        "description": "trading_platform.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "trading_platform.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-gwmp4&ko#nqpn=*1tk=^6ic9+grq5bkc#es@tzca__g-fs*0&i'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-gwmp4&ko#nqpn=*1tk=^6ic9+grq5bkc#es@tzca__g-fs*0&i'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'corsheaders',",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'corsheaders',\n    'rest_framework',\n    'rest_framework_simplejwt',",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'corsheaders.middleware.CorsMiddleware',\n]",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOWED_ORIGINS",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n    'http://localhost:5173',\n]\nCORS_ALLOW_CREDENTIALS = True\nCORS_ORIGIN_ALLOW_ALL = True\nALLOWED_HOSTS = ['*']\n# Simple JWT settings for token management\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_CREDENTIALS",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "CORS_ALLOW_CREDENTIALS = True\nCORS_ORIGIN_ALLOW_ALL = True\nALLOWED_HOSTS = ['*']\n# Simple JWT settings for token management\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ],\n}\nROOT_URLCONF = 'trading_platform.urls'",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ORIGIN_ALLOW_ALL",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "CORS_ORIGIN_ALLOW_ALL = True\nALLOWED_HOSTS = ['*']\n# Simple JWT settings for token management\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ],\n}\nROOT_URLCONF = 'trading_platform.urls'\nTEMPLATES = [",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\n# Simple JWT settings for token management\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ],\n}\nROOT_URLCONF = 'trading_platform.urls'\nTEMPLATES = [\n    {",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ],\n}\nROOT_URLCONF = 'trading_platform.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "ROOT_URLCONF = 'trading_platform.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'trading_platform.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'postgres',\n        'USER': 'postgres',\n        'PASSWORD': '1234',\n        'HOST': 'localhost',",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'postgres',\n        'USER': 'postgres',\n        'PASSWORD': '1234',\n        'HOST': 'localhost',\n        'PORT': '5432',\n    }\n}",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ),\n}\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),\n    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),\n}\nCORS_ALLOW_CREDENTIALS = True",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),\n    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),\n}\nCORS_ALLOW_CREDENTIALS = True\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_CREDENTIALS",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "CORS_ALLOW_CREDENTIALS = True\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "trading_platform.settings",
+        "description": "trading_platform.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "trading_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "trading_platform.urls",
+        "description": "trading_platform.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/auth/', include('accounts.urls')),  # Add authentication URLs\n    path('api/', include('api.urls'))\n]",
+        "detail": "trading_platform.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "trading_platform.wsgi",
+        "description": "trading_platform.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "trading_platform.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'trading_platform.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
